@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AlignTab",
 		"AutoFileName",
 		"AutoHotkey",
@@ -29,6 +30,7 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"Sublimerge 3",
 		"Terminal"
 	],
 	"repositories":
