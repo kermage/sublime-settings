@@ -3,6 +3,7 @@
 	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
 	{ "keys": ["ctrl+alt+shift+w"], "command": "close_all" },
 	{ "keys": ["ctrl+shift+z"], "command": "revert" },
+	{ "keys": ["shift+alt+p"], "command": "prompt_select_workspace" },
 	
 	{ "keys": ["ctrl+\\"], "command": "reindent" },
 	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
