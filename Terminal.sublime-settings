@@ -1,4 +1,4 @@
 {
 	"terminal": "C:\\Cmder\\Cmder.exe",
-	"parameters": ["/SINGLE"]
+	"parameters": ["/SINGLE", "%CWD%"]
 }
