@@ -31,6 +31,9 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-phpcs",
 		"Sublimerge 3",
 		"Terminal"
 	],
